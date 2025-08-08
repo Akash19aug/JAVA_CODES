@@ -11,6 +11,10 @@ public class TEST_ {
 		System.out.println("lets check github 2");
 		System.out.println("lets check github 3");
 		
+		System.out.println("lets check github X");
+		System.out.println("lets check github Y");
+		System.out.println("lets check github Z");
+		
 		// TODO Auto-generated method stub
        System.out.println("AKASH HAS STARTED WORKING");
        
