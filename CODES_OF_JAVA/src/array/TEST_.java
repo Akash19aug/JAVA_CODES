@@ -6,6 +6,11 @@ import java.util.Map;
 public class TEST_ {
 
 	public static void main(String[] args) {
+		
+		System.out.println("lets check github 1");
+		System.out.println("lets check github 2");
+		System.out.println("lets check github 3");
+		
 		// TODO Auto-generated method stub
        System.out.println("AKASH HAS STARTED WORKING");
        
